@@ -2,4 +2,4 @@
 
 # jdbdt.github.io
 
-GitHub pages for JDBDT - http://jdbdt.github.io
+GitHub pages for JDBDT - https://jdbdt.github.io
